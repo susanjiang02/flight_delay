@@ -1,2 +1,2 @@
-# Flight Delay Prediction
-Building a machine learning pipeline to predict flight delays
+# Flight_Delay_Prediction
+Building a machine learning pipeline to predict flight delays.
